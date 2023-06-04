@@ -3,7 +3,7 @@
 
 ## AIM: 
 To Design the various parts of a mechanical component and assemble it using a bottom-up approach then convert it into the orthographic view
-
+ 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
 2. Windows 10
